@@ -1,0 +1,8 @@
+export const GET_ALL_TAGS = "GET_ALL_TAGS";
+export const GET_ALL_TAGS_SUCCESS = "GET_ALL_TAGS_SUCCESS";
+export const CREATE_NEW_TAG = "CREATE_NEW_TAG";
+export const CREATE_NEW_TAG_SUCCESS = "CREATE_NEW_TAG_SUCCESS";
+export const GET_TAG_POSTS = "GET_TAG_POSTS";
+export const GET_TAG_POSTS_SUCCESS = "GET_TAG_POSTS_SUCCESS";
+export const GET_TAG = "GET_TAG";
+export const GET_TAG_SUCCESS = "GET_TAG_SUCCESS";
